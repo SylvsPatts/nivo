@@ -1,10 +1,7 @@
 {
     "type": "FeatureCollection",
     "features": [
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Afghanistan"
+    
         },
         "geometry": {
           "type": "Polygon",
